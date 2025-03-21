@@ -12,7 +12,7 @@
 
 ## 💡 Super core info:
 - 💻 Web developer with experience in both frontend and backend. 
-- 🚀 Exploring new technologies and always keeping learning.  
+- 🚀 Exploring new technologies and always learning new stuff.  
 
 ## 🔧 Technologies & Tools:  
 - HTML, CSS, JavaScript, jQuery  
