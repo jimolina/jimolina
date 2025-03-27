@@ -6,7 +6,10 @@
 > While you won’t see much here, I promise I’ve been busy coding! 🚀  
 
 📜 **Imagine this:** For the past 10 years, three companies have my code in their history records:  
-- 🏢 **NESN** (2020 - Present)  
+- 🏢 **NESN** (2020 - Present)
+  
+<img src="https://josemolinaresume.com/uploads/nesn-github.jpg" alt="NESN Profile" width="500"/>
+  
 - 🏢 **SmashFly** (2017 - 2020)  
 - 🏢 **Harris School Solutions** (2015 - 2017)  
 
@@ -18,7 +21,9 @@
 - HTML, CSS, JavaScript, jQuery  
 - React.js, Vue.js, SASS, Bootstrap  
 - MySQL, MSSQL, MongoDB, GraphQL  
-- Git & GitHub  
+- Git & GitHub
+- Jira & Confluence
+- See a full list of Skills here: [Resume Online](https://josemolinaresume.com/site/)
 
 ## 📫 Contact:  
 📌 [LinkedIn](https://www.linkedin.com/in/joseisraelmolina/)
