@@ -6,7 +6,7 @@
 > While you won’t see much here, I promise I’ve been busy coding! 🚀  
 
 📜 **Imagine this:** For the past 10 years, three companies have my code in their history records:  
-- 🏢 **NESN** (2020 - Present)
+- 🏢 **NESN** (2020 - 2025)
   
 <img src="https://josemolinaresume.com/uploads/nesn-github.jpg" alt="NESN Profile" width="500"/>
   
@@ -24,6 +24,14 @@
 - Git & GitHub
 - Jira & Confluence
 - See a full list of Skills here: [Resume Online](https://josemolinaresume.com/site/)
+
+## 🌍 Open Source & Community Projects
+
+| Project | Type | Description |
+|---|---|---|
+| [Code Clipboard](https://marketplace.visualstudio.com/items?itemName=JoseMolina.code-clipboard) | 🧩 VS Code Extension | Clipboard utility for developers |
+| [BundleBuddy](https://chromewebstore.google.com/detail/bundlebuddy/hbadokgcbepfmmenefpjjoofjdggmkin) | 🌐 Chrome Extension | Bundle analyzer in your browser |
+
 
 ## 📫 Contact:  
 📌 [LinkedIn](https://www.linkedin.com/in/joseisraelmolina/)
